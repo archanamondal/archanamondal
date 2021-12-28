@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archana Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archanamondal&label=Profile%20views&color=0e75b6&style=flat" alt="archanamondal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archanamondal" alt="archanamondal" /></a> </p>
-
 - 🔭 I’m currently working on [blog-frontend](https://github.com/cksadhukhan/blog-frontend)
 
 - 🌱 I’m currently learning **Javascript, Typescript, Recat JS, Tailwind CSS**
