@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archana Mondal</h1>
-<h3 align="center">A passionate frontend developer from India <a href="https://www.linkedin.com/in/archana-mondal" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/46-flags-landmarks/india.svg" alt="https://www.linkedin.com/in/archana-mondal/" height="30" width="40" /></a> </h3>
+<h3 align="center">A passionate frontend developer from India <a href="https://www.linkedin.com/in/archana-mondal" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/46-flags-landmarks/india.svg" alt="https://www.linkedin.com/in/archana-mondal/" height="25" width="35" /></a> </h3>
 
 - 🔭 I’m currently working on [blog-frontend](https://github.com/cksadhukhan/blog-frontend)
 
