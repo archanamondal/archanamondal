@@ -30,7 +30,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanamondal&theme=dracula" alt="Top Langs" />
 </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=archanamondal&theme=dracula">
-  <img align="center" height="300px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=archanamondal&theme=dracula" alt="archanamondal" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=archanamondal&theme=dracula" alt="archanamondal" />
     </a>
 </div>
 
